@@ -12,7 +12,7 @@ public class Asus extends Computer{ //Asus (child/Subclass) extends means as inh
 	}
 	
 	public double taxPrice() {
-		return super.disPrice() * 0.82;
+		return super.disPrice() * 1.18;
 	}
 	
 	public String toString() {
